@@ -13,8 +13,8 @@ public class GenericsDemo {
         System.out.print(al);
         System.out.println();
 
-        for(Integer integer:al){
-            System.out.println(integer);
+        for(Integer i:al){
+            System.out.println(i);
         }
     }
 }
