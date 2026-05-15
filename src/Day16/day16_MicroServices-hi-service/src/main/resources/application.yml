@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: day16_MicroServices-hi-service
+server:
+ port: 1111
